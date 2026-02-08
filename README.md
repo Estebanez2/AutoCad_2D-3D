@@ -74,9 +74,4 @@ Diseño técnico y modelado 2D / 3D
 
 ## 📄 Licencia
 
-Copyright © 2026  Alejandro Estébanez Moreno
-Todos los derechos reservados.
-
-Este repositorio y su contenido no pueden ser copiados, distribuidos, modificados o utilizados con fines comerciales sin autorización expresa del autor.
-
-Para solicitudes de uso, contactar directamente al propietario del repositorio.
+Este proyecto está licenciado bajo los términos descritos en el archivo LICENCIA.
